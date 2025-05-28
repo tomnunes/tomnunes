@@ -2,7 +2,7 @@
 
 ## 🚀 Desenvolvedor Front-end e estudando Engenharia de Dados
 
-Desenvolvedor web com mais de 15 anos na área, passei por empresas grandes e pequenas e adiquiri larga experiência. Atualmente estou mergulhando em tecnologias como Python, SQL, ETL/Data Pipelines, Data Lakes, Lakehouses, Prefect e cloud computing (AWS) para construir pipelines robustos e soluções escaláveis.
+Desenvolvedor web com mais de 15 anos na área, passei por empresas grandes e pequenas e adquiri larga experiência. Atualmente estou mergulhando em tecnologias como Python, SQL, ETL/Data Pipelines, Data Lakes, Lakehouses, Prefect e cloud computing (AWS) para construir pipelines robustos e soluções escaláveis.
 
 ### 🔧 Tecnologias que já trabalho:
 - Front-end: HTML, CSS, JavaScript (Vuejs e React)  
