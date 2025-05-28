@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá, eu sou o Thomas! 👋
 
-<!--
-**tomnunes/tomnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desenvolvedor Front-end e estudando Engenharia de Dados
 
-Here are some ideas to get you started:
+Desenvolvedor web com mais de 15 anos na área, passei por empresas grandes e pequenas e adiquiri larga experiência. Atualmente estou mergulhando em tecnologias como Python, SQL, ETL/Data Pipelines, Data Lakes, Lakehouses, Prefect e cloud computing (AWS) para construir pipelines robustos e soluções escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tecnologias que já trabalho:
+- Front-end: HTML, CSS, JavaScript (Vuejs e React)  
+- Back-end: Node.js, PHP (Laravel, Synfony)  
+- Versionamento: Git, GitHub/GitLab  
+- Outras: APIs REST, Graphql
+
+### 📫 Como me encontrar:
+- LinkedIn: [thomasnunes](https://www.linkedin.com/in/thomasnunes/)
+- E-mail: thomasedsonn@gmail.com
+
+🔗 **Projeto em destaque**: [Spotify Data Pipeline](https://github.com/tomnunes/spotify-data-pipeline)
+
+---
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomnunes&layout=compact&theme=transparent) 
